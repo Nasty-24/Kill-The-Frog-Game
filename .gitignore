@@ -1,0 +1,42 @@
+# Unity generated folders
+KillTheFrog/[Ll]ibrary/
+KillTheFrog/[Tt]emp/
+KillTheFrog/[Oo]bj/
+KillTheFrog/[Bb]uild/
+KillTheFrog/[Bb]uilds/
+KillTheFrog/[Ll]ogs/
+KillTheFrog/[Uu]ser[Ss]ettings/
+KillTheFrog/[Mm]emoryCaptures/
+KillTheFrog/[Rr]ecordings/
+
+# Unity scene auto-recovery backups
+KillTheFrog/Assets/_Recovery/
+KillTheFrog/Assets/_Recovery.meta
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Logs and archives
+*.log
+*.zip
+*.apk
+*.aab
+*.unitypackage
+
+# OS files
+.DS_Store
+Thumbs.db
